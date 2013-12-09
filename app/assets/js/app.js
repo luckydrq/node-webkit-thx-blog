@@ -17,7 +17,6 @@ var github = new GitHubApi({
   protocol: 'https'
 })
 
-
 //load native modules
 var app = require('./lib/app')
 var user = require('./lib/user')

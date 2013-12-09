@@ -1,5 +1,6 @@
 {
   "name": "node-webkit-thx-blog",
+  "author": "luckydrq",
   "version": "0.1.0",
   "devDependencies": {
     "grunt": "~0.4.2",
