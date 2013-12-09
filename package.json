@@ -1,0 +1,10 @@
+{
+  "name": "node-webkit-thx-blog",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-node-webkit-builder": "~0.1.13",
+    "grunt-contrib-watch": "~0.5.3"
+  },
+  "dependencies": {}
+}

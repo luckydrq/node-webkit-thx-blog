@@ -1,0 +1,16 @@
+{
+  "name": "tool",
+  "version": "0.1.0",
+  "window": {
+    "width": 800,
+    "height": 680,
+    "toolbar": true
+  },
+  "main": "index.html",
+  "dependencies": {
+    "github": "~0.1.12",
+    "async": "~0.2.9",
+    "jade": "~0.35.0",
+    "marked": "~0.2.10"
+  }
+}
